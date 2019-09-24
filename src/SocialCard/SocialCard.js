@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
+import './SocialCard.css';
 
-function App() {
+function SocialCard() {
   return (
-    <div className="App">
+    <div className="SocialCard">
     </div>
   );
 }
 
-export default App;
+export default SocialCard;
