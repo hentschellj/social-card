@@ -11,7 +11,7 @@ class Front extends React.Component {
                             <img src="" />
                         </div>
 
-                        <div className="col-xs-6">
+                        <div className="col-xs-6 content">
                             <h2>Front-End</h2>
                         </div>
                     </div>
