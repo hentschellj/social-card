@@ -5,10 +5,14 @@ import Back from './Back/Back';
 
 function SocialCard() {
   return (
-    <div className="SocialCard">
-      <Front />
+    <div className="container">
+      <div className="SocialCard">
+        <div className="sides">
+          <Front />
 
-      <Back />
+          <Back />
+        </div>
+      </div>
     </div>
   );
 }
