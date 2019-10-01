@@ -5,8 +5,8 @@ class Back extends React.Component {
     render() {
         return (
             <div className="back-side">
-                <div className="container">
-                    <div className="row">
+                <div className="container back">
+                    <div className="row back">
                         <div className="col-xs-12">
                             <h2>Jack</h2>
                         </div>
