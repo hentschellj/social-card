@@ -8,7 +8,7 @@ class Back extends React.Component {
                 <div className="container back">
                     <div className="row back">
                         <div className="col-xs-12">
-                            <h2>Jack</h2>
+                            <h2>Life is one big improvisation.</h2>
                         </div>
                     </div>
                 </div>
